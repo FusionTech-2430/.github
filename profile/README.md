@@ -1,6 +1,6 @@
 # FusionTech 🚀
 
-![FusionTech Logo](path/to/logo.png)
+![FusionTech Logo](./ft-logo-v1.png)
 
 ## Transformando ideas en realidad digital 💡
 
