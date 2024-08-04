@@ -1,11 +1,11 @@
-# FusionTech 🚀
+# FussionTech 🚀
 
-![FusionTech Logo](./ft-logo-v2.jpg)
+![FussionTech Logo](./ft-logo-v2.jpg)
 
 ## Transformando ideas en realidad digital 💡
 
 ### ¿Quiénes Somos? 🤔
-Somos **FusionTech**, una casa desarrolladora de software dedicada a transformar ideas en soluciones digitales innovadoras y personalizadas. Nuestra misión es mejorar la gestión de clientes y la centralización de ofertas y eventos, ofreciendo tecnología avanzada y soporte excepcional. Nos comprometemos a impulsar el éxito y la sostenibilidad de nuestros clientes, fomentando un entorno de trabajo inclusivo y creativo.
+Somos **FussionTech**, una casa desarrolladora de software dedicada a transformar ideas en soluciones digitales innovadoras y personalizadas. Nuestra misión es mejorar la gestión de clientes y la centralización de ofertas y eventos, ofreciendo tecnología avanzada y soporte excepcional. Nos comprometemos a impulsar el éxito y la sostenibilidad de nuestros clientes, fomentando un entorno de trabajo inclusivo y creativo.
 
 ### Misión 🎯
 Desarrollar soluciones de software innovadoras y personalizadas para mejorar la gestión de clientes y la centralización de ofertas y eventos, aumentando así la eficiencia. Nos comprometemos a ofrecer tecnología avanzada, soporte excepcional y resultados de alta calidad que satisfagan las necesidades de nuestros clientes.
@@ -35,7 +35,7 @@ Ser líderes en innovación tecnológica, transformando ideas en soluciones de s
 ---
 
 ### ¡Contáctanos! 📞
-- **Email:** fusiontech.devhouse@gmail.com
+- **Email:** fussiontech.devhouse@gmail.com
 
 ---
 
