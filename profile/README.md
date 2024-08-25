@@ -40,6 +40,6 @@ Ser líderes en innovación tecnológica, transformando ideas en soluciones de s
 ---
 
 ### Conéctate con nosotros 🌐
-[![GitHub](https://img.shields.io/github/followers/FusionTech?style=social)](https://github.com/FusionTech)
+[![GitHub](https://img.shields.io/github/followers/FusionTech?style=social)](https://github.com/FusionTech-2430)
 
 ---
